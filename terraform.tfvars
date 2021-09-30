@@ -1,2 +1,2 @@
 clustername = "my-wordpress-cluster"
-subnet = [ "subnet-065c0ae0860564b3e", "subnet-078e622a17350df46" ]
+subnet = [ "subnet-0882e990fc66663c0", "subnet-0243f486a244bf427" ]
